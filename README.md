@@ -1,2 +1,32 @@
-# MaltoC
-Malwares in C/C++
+# An Introduction to Programming through C++
+
+## Table of Contents
+
+1. [Introduction](#lecture-1-part-1-introduction)
+2. [Problem Solving using Computer](#lecture-2-part-1-problem-solving-using-computer)
+3. [Basic Elements of Program](#lecture-3-part-1-basic-elements-of-program)
+4. [Program Design](#lecture-4-program-design)
+5. [Simple cpp Graphics](#lecture-5-simple-cpp-graphics)
+6. [Conditional Execution](#lecture-6-part-1-conditional-execution)
+7. [Loops](#lecture-7-part-1-loops)
+8. [Computing Mathematical Functions](#lecture-8-computing-mathematical-functions)
+9. [Loops in various applications](#lecture-9-loops-in-various-applications)
+10. [Functions](#lecture-10-functions)
+11. [Recursion](#lecture-11-recursion)
+12. [Virahanka Numbers](#lecture-12-virahanka-numbers)
+13. [Program Organization and Functions](#lecture-13-program-organization-and-functions)
+14. [Advanced Features of Functions](#lecture-14-advanced-features-of-functions)
+15. [Array Part-1](#lecture-15-array-part-1)
+16. [Array Part-2](#lecture-16-array-part-2)
+17. [More on Arrays](#lecture-17-more-on-arrays)
+18. [Arrays and recursion](#lecture-18-arrays-and-recursion)
+19. [Structures](#lecture-19-structures)
+20. [Structures Part 2](#lecture-20-structures-part-2)
+21. [Classes](#lecture-21-classes)
+22. [Representing variable length entities](#lecture-22-representing-variable-length-entities)
+23. [The Standard Library](#lecture-23-the-standard-library)
+24. [Data structure based programming](#lecture-24-data-structure-based-programming)
+25. [Medium size programs](#lecture-25-medium-size-programs)
+26. [A graphical editor and solver for circuits](#lecture-26-a-graphical-editor-and-solver-for-circuits)
+27. [Cosmological simulation](#lecture-27-cosmological-simulation)
+
