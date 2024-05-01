@@ -1,4 +1,4 @@
-## C++ Programming (Learning Path) - Table of Contents
+## C++ Programming (Learning Path)
 
 - Introduction
 - Problem Solving using Computer
